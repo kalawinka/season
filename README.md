@@ -1,7 +1,7 @@
 # SEASON project
-## Goal of the project
 Social nEtwork And ScientOmetric aNalysis (SEASON)
 
+## Goal of the project
 Social Network and Scientometric Analysis in Collaborative Research Publications between India and Germany
 
 ## Project Partners
@@ -10,7 +10,7 @@ Social Network and Scientometric Analysis in Collaborative Research Publications
 
 ## Research staff 
 * Dr Jeyshankar Ramalingam (Pondicherry University)
-* Asif Meer (Pondicherry University)
+* Aasif Ahmad Mir (Pondicherry University)
 
 * Dr Philipp Mayr (GESIS)
 * Nina Smirnova (GESIS)
@@ -29,6 +29,11 @@ The project will involve close collaboration and joint work between Indian and G
 
 ## Publications
 to be added
+
+## Related publications
+* Smirnova, N., & Mayr, P. (2022). A Comprehensive Analysis of Acknowledgement Texts in Web of Science: A case study on four scientific domains. Scientometrics. https://doi.org/10.1007/s11192-022-04554-9
+
+
 
 ## Duration
 2022-2024
