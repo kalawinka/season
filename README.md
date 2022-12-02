@@ -42,5 +42,5 @@ to be added
 DAAD–UGC Project-based Personnel Exchange Programme (PPP 2022)
 
 * DAAD project number: 57608852
-* UGC project number: to be added
+* UGC project number: 1-10/2020(IC)
 
