@@ -32,6 +32,8 @@ to be added
 
 ## Related publications
 * Smirnova, N., & Mayr, P. (2022). A Comprehensive Analysis of Acknowledgement Texts in Web of Science: A case study on four scientific domains. Scientometrics. https://doi.org/10.1007/s11192-022-04554-9
+* Nishavathi, E., & Jeyshankar, R. (2020). A Scientometric Social Network Analysis of International Collaborative Publications of All India Institute of Medical Sciences, India. Journal of Information Science Theory and Practice, 8(3), 64–76. https://doi.org/10.1633/JISTAP.2020.8.3.5
+
 
 
 
