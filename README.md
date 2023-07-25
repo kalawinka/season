@@ -32,7 +32,9 @@ The researcher will collect data from Web of Science, SCOPUS, and Pub Med databa
 The project will involve close collaboration and joint work between Indian and German sides. While, the Indian side has experience of working on Text Analytics of scholarly articles and Social Media analytics, the German side has sufficient expertise of applying the Scientometrics and natural language processing techniques for Information retrieval in Scholarly article domain. It is necessary to bring together methodologies from Information Retrieval, NLP and Scientometrics and fuse them together to design a suitable retrieval and recommendation system as proposed in the project. The collaboration is expected to from a long term association among the two research groups and to promote bilateral research cooperation among the two countries by exchange of ideas, know-how, research staff and sharing of resources. In due course academic collaboration agreements, involving joint research projects and other collaborative activities, between participating Indian and German institutions will be explored.
 
 ## Publications
-to be added
+* Mir, A. A., Smirnova, N., Ramalingam, J., & Mayr, P. (2023). The rise of Indo-German collaborative research: 1990–2022. Submitted
+* Smirnova, N., & Mayr, P. (2023). Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. Scientometrics.
+
 
 ## Related publications
 * Smirnova, N., & Mayr, P. (2022). A Comprehensive Analysis of Acknowledgement Texts in Web of Science: A case study on four scientific domains. Scientometrics. https://doi.org/10.1007/s11192-022-04554-9
