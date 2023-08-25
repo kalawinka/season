@@ -17,8 +17,10 @@ Social Network and Scientometric Analysis in Collaborative Research Publications
 
 
 ## Updates
-* First stay of the German team in Pondicherry completed. Nov. 24 - Dec. 16, 2022
+* 1st SEASON Paper published: Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. https://doi.org/10.1007/s11192-023-04806-2
 * First stay of the Indian team in Cologne. March 6 - 28, 2023
+* First stay of the German team in Pondicherry completed. Nov. 24 - Dec. 16, 2022
+
 
 ## Scientific objectives and individual components of the joint project
 Scientists and organizations should consider the benefits and costs of collaboration before deciding to collaborate. Collaboration for its individual sake does not seem to be warranted, given the number of critical success factors that should be taken into account before and during collaboration. Collaboration persuades the establishment of effectual communication and partnerships and also recommends equivalent chances among the team members. It tributes and respects each member's individual and organizational technique. It also augments the ethical demeanor, maintains sincerity, simplicity, secrecy, reliability, and righteousness.
