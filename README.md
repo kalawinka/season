@@ -33,7 +33,7 @@ The project will involve close collaboration and joint work between Indian and G
 
 ## Publications
 * Mir, A. A., Smirnova, N., Ramalingam, J., & Mayr, P. (2023). The rise of Indo-German collaborative research: 1990–2022. Submitted
-* Smirnova, N., & Mayr, P. (2023). Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. Scientometrics.
+* Smirnova, N., & Mayr, P. (2023). Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. Scientometrics. https://doi.org/10.1007/s11192-023-04806-2
 
 
 ## Related publications
