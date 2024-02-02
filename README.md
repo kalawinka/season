@@ -17,6 +17,8 @@ Social Network and Scientometric Analysis in Collaborative Research Publications
 
 
 ## Updates
+* Indo-German Literature Dataset [dataset] Published: https://doi.org/10.5281/ZENODO.10607234
+* 2nd SEASON paper published: The Emergence of Preprints: Comparing Publishing Behaviour in the Global South and the Global North. Online Information Review. https://doi.org/10.1108/OIR-04-2023-0181
 * 1st SEASON Paper published: Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. https://doi.org/10.1007/s11192-023-04806-2
 * First stay of the Indian team in Cologne. March 6 - 28, 2023
 * First stay of the German team in Pondicherry completed. Nov. 24 - Dec. 16, 2022
@@ -35,6 +37,8 @@ The project will involve close collaboration and joint work between Indian and G
 
 ## Publications
 * Mir, A. A., Smirnova, N., Ramalingam, J., & Mayr, P. (2023). The rise of Indo-German collaborative research: 1990–2022. Submitted
+* Smirnova, N., Culbert, J. H., & Mayr, P. (2024). Indo-German Literature Dataset [dataset]. Zenodo. https://doi.org/10.5281/ZENODO.10607234
+* Biesenbender, K., Smirnova, N., Mayr, P., & Peters, I. (2024). The Emergence of Preprints: Comparing Publishing Behaviour in the Global South and the Global North. Online Information Review. https://doi.org/10.1108/OIR-04-2023-0181
 * Smirnova, N., & Mayr, P. (2023). Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. Scientometrics. https://doi.org/10.1007/s11192-023-04806-2
 
 
