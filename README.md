@@ -17,9 +17,10 @@ Social Network and Scientometric Analysis in Collaborative Research Publications
 
 
 ## Updates
-* Indo-German Literature Dataset [dataset] Published: https://doi.org/10.5281/ZENODO.10607234
-* 2nd SEASON paper published: The Emergence of Preprints: Comparing Publishing Behaviour in the Global South and the Global North. Online Information Review. https://doi.org/10.1108/OIR-04-2023-0181
-* 1st SEASON Paper published: Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. https://doi.org/10.1007/s11192-023-04806-2
+* Paper: The rise of Indo-German collaborative research: 1990–2022. Global Knowledge, Memory and Communication. http://arxiv.org/abs/2404.17171
+* Dataset: Indo-German Literature Dataset [dataset] Published: https://doi.org/10.5281/ZENODO.10607234
+* Paper: The Emergence of Preprints: Comparing Publishing Behaviour in the Global South and the Global North. Online Information Review. https://doi.org/10.1108/OIR-04-2023-0181
+* Paper: Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. https://doi.org/10.1007/s11192-023-04806-2
 * First stay of the Indian team in Cologne. March 6 - 28, 2023
 * First stay of the German team in Pondicherry completed. Nov. 24 - Dec. 16, 2022
 
@@ -36,7 +37,7 @@ The researcher will collect data from Web of Science, SCOPUS, and Pub Med databa
 The project will involve close collaboration and joint work between Indian and German sides. While, the Indian side has experience of working on Text Analytics of scholarly articles and Social Media analytics, the German side has sufficient expertise of applying the Scientometrics and natural language processing techniques for Information retrieval in Scholarly article domain. It is necessary to bring together methodologies from Information Retrieval, NLP and Scientometrics and fuse them together to design a suitable retrieval and recommendation system as proposed in the project. The collaboration is expected to from a long term association among the two research groups and to promote bilateral research cooperation among the two countries by exchange of ideas, know-how, research staff and sharing of resources. In due course academic collaboration agreements, involving joint research projects and other collaborative activities, between participating Indian and German institutions will be explored.
 
 ## Publications
-* Mir, A. A., Smirnova, N., Ramalingam, J., & Mayr, P. (2023). The rise of Indo-German collaborative research: 1990–2022. Submitted
+* Mir, A. A., Smirnova, N., Ramalingam, J., & Mayr, P. (2023). The rise of Indo-German collaborative research: 1990–2022. Global Knowledge, Memory and Communication. https://doi.org/10.1108/GKMC-09-2023-0328 preprint: http://arxiv.org/abs/2404.17171
 * Smirnova, N., Culbert, J. H., & Mayr, P. (2024). Indo-German Literature Dataset [dataset]. Zenodo. https://doi.org/10.5281/ZENODO.10607234
 * Biesenbender, K., Smirnova, N., Mayr, P., & Peters, I. (2024). The Emergence of Preprints: Comparing Publishing Behaviour in the Global South and the Global North. Online Information Review. https://doi.org/10.1108/OIR-04-2023-0181
 * Smirnova, N., & Mayr, P. (2023). Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements. Scientometrics. https://doi.org/10.1007/s11192-023-04806-2
@@ -45,7 +46,6 @@ The project will involve close collaboration and joint work between Indian and G
 ## Related publications
 * Smirnova, N., & Mayr, P. (2022). A Comprehensive Analysis of Acknowledgement Texts in Web of Science: A case study on four scientific domains. Scientometrics. https://doi.org/10.1007/s11192-022-04554-9
 * Nishavathi, E., & Jeyshankar, R. (2020). A Scientometric Social Network Analysis of International Collaborative Publications of All India Institute of Medical Sciences, India. Journal of Information Science Theory and Practice, 8(3), 64–76. https://doi.org/10.1633/JISTAP.2020.8.3.5
-
 
 
 
